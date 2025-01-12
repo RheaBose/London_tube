@@ -153,7 +153,7 @@ def calculate_fare(inputs, station_data):
 
 def main():
     # Example station dataset (replace with the cleaned data from your CSV)
-    station_data = pd.read_csv("Cleaned_London_Tube_Stations_Data ")
+    station_data = pd.read_csv("Cleaned_London_Tube_Stations_Data.csv")
 
     inputs = get_user_inputs(station_data)
     total_fare = calculate_fare(inputs, station_data)

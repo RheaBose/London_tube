@@ -147,7 +147,7 @@ def calculate_fare(inputs, station_data):
     
     if inputs['ticket_type'] in ["oyster", "contactless"]:
         daily_cap = 14.90
-        total_fare = min(total_fare, daily_cap * inputs['duration'])
+        total_fare += min(total_fare, daily_cap * inputs['duration'])
 
     return total_fare
 
@@ -165,7 +165,7 @@ def main():
     print(f"Number of Travelers: {inputs['num_travelers']}")
     print(f"Ticket Type: {inputs['ticket_type'].capitalize()}")
     print(f"Duration: {inputs['duration']} days")
-    print(f"Total Fare: £{total_fare:.2f}")
+    print(f"Total Fare: £{total_fare:.2f} daily average ")
 
 if __name__ == "__main__":
     main()

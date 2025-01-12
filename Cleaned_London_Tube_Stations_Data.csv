@@ -1,0 +1,472 @@
+Station Name,Lines Served,Zone,Night Tube Available
+Acton Town,"District, Piccadilly",3,Yes
+Barbican,"Circle, Hammersmith & City, Metropolitan",1,No
+Aldgate,"Circle, Metropolitan",1,No
+Aldgate East,"District, Hammersmith & City",1,No
+Stratford International DLR,DLR,2,No
+Alperton,Piccadilly,4,No
+Amersham,Metropolitan,9,No
+Angel,Northern,1,No
+Archway,Northern,2,Yes
+Arnos Grove,Piccadilly,4,Yes
+Arsenal,Piccadilly,2,Yes
+Baker Street,"Bakerloo, Circle, Jubilee, Hammersmith & City, Metropolitan",1,Yes
+Balham LU,Northern,3,Yes
+Bank and Monument,"Central, Circle, District, DLR, Northern, Waterloo & City",1,Yes
+Barking,"District, Hammersmith & City, London Overground",4,No
+Barkingside,Central,4,Yes
+Barons Court,"District, Piccadilly",2,Yes
+Bayswater,"Circle, District",1,No
+Becontree,District,5,No
+Belsize Park,Northern,2,Yes
+Bethnal Green LU,Central,2,Yes
+Blackfriars LU,"Circle, District",1,No
+Blackhorse Road,"London Overground, Victoria",3,Yes
+King George V,DLR,3,No
+Bond Street,"Central, Jubilee, TfL Rail",1,Yes
+Borough,Northern,1,No
+Boston Manor,Piccadilly,4,Yes
+Bounds Green,Piccadilly,3,Yes
+Bow Road,"District, Hammersmith & City",2,No
+Brent Cross,Northern,3,Yes
+Bromley-by-Bow,"District, Hammersmith & City",2,No
+Buckhurst Hill,Central,5,Yes
+Burnt Oak,Northern,4,Yes
+London City Airport,DLR,3,No
+Caledonian Road,Piccadilly,2,Yes
+Camden Town,Northern,2,Yes
+Cannon Street LU,"Circle, District",1,No
+Canons Park,Jubilee,5,Yes
+Pontoon Dock,DLR,3,No
+Chalfont & Latimer,Metropolitan,8,No
+Chalk Farm,Northern,2,Yes
+Chancery Lane,Central,1,Yes
+Embankment,"Bakerloo, Circle, District, Northern",1,Yes
+Chesham,Metropolitan,9,No
+Chigwell,Central,4,No
+Chiswick Park,District,3,No
+Chorleywood,Metropolitan,7,No
+Clapham Common,Northern,2,Yes
+Clapham North,Northern,2,Yes
+Clapham South,Northern,2,Yes
+Cockfosters,Piccadilly,5,Yes
+Colindale,Northern,4,Yes
+Colliers Wood,Northern,3,Yes
+Covent Garden,Piccadilly,1,Yes
+Croxley,Metropolitan,7,No
+Dagenham East,District,5,No
+Dagenham Heathway,District,5,No
+Debden,Central,6,No
+Dollis Hill,Jubilee,3,Yes
+West Silvertown,DLR,3,No
+Ealing Broadway,"Central, District, TfL Rail",3,Yes
+Ealing Common,"District, Piccadilly",3,No
+Earl's Court,"District, Piccadilly",1,Yes
+East Acton,Central,2,Yes
+Eastcote,"Metropolitan, Piccadilly",5,No
+East Finchley,Northern,3,Yes
+East Ham,"District, Hammersmith & City",3,No
+East Putney,District,2,No
+Edgware,Northern,5,Yes
+Edgware Road (DIS),"Circle, District, Hammersmith & City",1,No
+Elephant & Castle LU,"Northern, Bakerloo",1,No
+Elm Park,District,6,No
+Epping,Central,6,No
+Woolwich Arsenal,DLR,4,No
+Euston LU,"Northern, Victoria",1,Yes
+Euston Square,"Circle, Hammersmith & City, Metropolitan",1,No
+Fairlop,Central,4,Yes
+Farringdon,"Circle, Hammersmith & City, Metropolitan, TfL Rail",1,No
+Finchley Central,Northern,4,Yes
+Finchley Road,"Metropolitan, Jubilee",2,Yes
+Finsbury Park,"Piccadilly, Victoria",2,Yes
+Fulham Broadway,District,2,No
+Gants Hill,Central,4,Yes
+Gloucester Road,"District, Piccadilly, Circle",1,Yes
+Golders Green,Northern,3,Yes
+Goldhawk Road,"Circle, Hammersmith & City",2,No
+Goodge Street,Northern,1,Yes
+Grange Hill,Central,4,No
+Great Portland Street,"Circle, Hammersmith & City, Metropolitan",1,No
+Greenford,Central,4,No
+Green Park,"Jubilee, Piccadilly, Victoria",1,Yes
+Gunnersbury,"District, London Overground",3,No
+Hainault,Central,4,Yes
+Hammersmith (DIS),"District, Piccadilly",2,Yes
+Hampstead,Northern,2,Yes
+Hanger Lane,Central,3,No
+Harlesden,"Bakerloo, London Overground",3,No
+Harrow & Wealdstone,"Bakerloo, London Overground",5,No
+Harrow-on-the-Hill,Metropolitan,5,No
+Wood Lane,"Circle, Hammersmith & City",2,No
+Hendon Central,Northern,3,Yes
+High Barnet,Northern,5,Yes
+Highbury & Islington,"London Overground, Victoria",2,Yes
+Highgate,Northern,3,Yes
+High Street Kensington,"Circle, District",1,No
+Hillingdon,"Metropolitan, Piccadilly",6,No
+Holborn,"Central, Piccadilly",1,Yes
+Holland Park,Central,2,Yes
+Holloway Road,Piccadilly,2,Yes
+Hornchurch,District,6,No
+Hounslow Central,Piccadilly,4,Yes
+Hounslow East,Piccadilly,4,Yes
+Hounslow West,Piccadilly,5,Yes
+Hyde Park Corner,Piccadilly,1,Yes
+Ickenham,"Metropolitan, Piccadilly",6,No
+Kennington,Northern,1,Yes
+Kensal Green,"Bakerloo, London Overground",2,No
+Kensington (Olympia),"District, London Overground",2,No
+Kentish Town,Northern,2,Yes
+Kenton,"Bakerloo, London Overground",4,No
+Kew Gardens,"District, London Overground",3,No
+Kilburn,Jubilee,2,Yes
+Kilburn Park,Bakerloo,2,No
+Kingsbury,Jubilee,4,Yes
+King's Cross St. Pancras,"Circle, Hammersmith & City, Metropolitan, Northern, Piccadilly, Victoria",1,Yes
+Knightsbridge,Piccadilly,1,Yes
+Ladbroke Grove,"Circle, Hammersmith & City",2,No
+Lambeth North,Bakerloo,1,No
+Lancaster Gate,Central,1,Yes
+Latimer Road,"Circle, Hammersmith & City",2,No
+Leicester Square,"Piccadilly, Northern",1,Yes
+Leyton,Central,3,Yes
+Leytonstone,Central,3,Yes
+Liverpool Street LU,"Central, Circle, Hammersmith & City, London Overground, Metropolitan",1,Yes
+London Bridge LU,"Northern, Jubilee",1,Yes
+Loughton,Central,6,Yes
+Maida Vale,Bakerloo,2,No
+Manor House,Piccadilly,2,Yes
+Mansion House,"Circle, District",1,No
+Marble Arch,Central,1,Yes
+Marylebone LU,Bakerloo,1,No
+Mile End,"District, Hammersmith & City, Central",2,Yes
+Mill Hill East,Northern,4,No
+Moorgate,"Circle, Hammersmith & City, Metropolitan",1,No
+Moor Park,Metropolitan,6,No
+Morden,Northern,4,Yes
+Mornington Crescent,Northern,2,Yes
+Neasden,Jubilee,3,Yes
+Newbury Park,Central,4,Yes
+North Acton,Central,2,Yes
+North Ealing,Piccadilly,3,No
+Northfields,Piccadilly,3,Yes
+North Harrow,Metropolitan,5,No
+Northolt,Central,5,No
+North Wembley,"Bakerloo, London Overground",4,No
+Northwick Park,Metropolitan,4,No
+Northwood,Metropolitan,6,No
+Northwood Hills,Metropolitan,6,No
+Notting Hill Gate,"Central, Circle, District",1,Yes
+Oakwood,Piccadilly,5,Yes
+Old Street,Northern,1,No
+Osterley,Piccadilly,4,Yes
+Oval,Northern,2,Yes
+Oxford Circus,"Bakerloo, Central, Victoria",1,Yes
+Paddington TfL,"Circle, District, Hammersmith & City",1,No
+Park Royal,Piccadilly,3,No
+Parsons Green,District,2,No
+Perivale,Central,4,No
+Piccadilly Circus,"Bakerloo, Piccadilly",1,Yes
+Pinner,Metropolitan,5,No
+Plaistow,"District, Hammersmith & City",3,No
+Preston Road,Metropolitan,4,No
+Putney Bridge,District,2,No
+Queensbury,Jubilee,4,Yes
+Queen's Park,"Bakerloo, London Overground",2,No
+Queensway,Central,1,Yes
+Ravenscourt Park,District,2,No
+Rayners Lane,"Metropolitan, Piccadilly",5,No
+Redbridge,Central,4,Yes
+Regent's Park,Bakerloo,1,No
+Richmond,"District, London Overground",4,No
+Rickmansworth,Metropolitan,7,No
+Roding Valley,Central,4,No
+Royal Oak,"Circle, Hammersmith & City",2,No
+Ruislip,"Metropolitan, Piccadilly",6,No
+Ruislip Gardens,Central,5,No
+Ruislip Manor,"Metropolitan, Piccadilly",6,No
+Russell Square,Piccadilly,1,Yes
+St. James's Park,"Circle, District",1,No
+St. John's Wood,Jubilee,2,Yes
+St. Paul's,Central,1,Yes
+Seven Sisters,"London Overground, Victoria",3,Yes
+Shepherd's Bush LU,Central,2,Yes
+Sloane Square,"Circle, District",1,No
+Snaresbrook,Central,4,Yes
+South Ealing,Piccadilly,3,Yes
+Southfields,District,3,No
+Southgate,Piccadilly,4,Yes
+South Harrow,Piccadilly,5,No
+South Kensington,"District, Piccadilly, Circle",1,Yes
+South Kenton,"Bakerloo, London Overground",4,No
+South Ruislip,Central,5,No
+South Wimbledon,Northern,3,Yes
+South Woodford,Central,4,Yes
+Stamford Brook,District,2,No
+Stanmore,Jubilee,5,Yes
+Stepney Green,"District, Hammersmith & City",2,No
+Stockwell,"Northern, Victoria",2,Yes
+Stonebridge Park,"Bakerloo, London Overground",3,No
+Charing Cross LU,"Bakerloo, Northern",1,Yes
+Stratford,"Central, DLR, Jubilee, London Overground, TfL Rail",2,Yes
+Sudbury Hill,Piccadilly,4,No
+Sudbury Town,Piccadilly,4,No
+Swiss Cottage,Jubilee,2,Yes
+Temple,"Circle, District",1,No
+Theydon Bois,Central,6,No
+Tooting Bec,Northern,3,Yes
+Tooting Broadway,Northern,3,Yes
+Tottenham Court Road,"Central, Northern, TfL Rail",1,Yes
+Tottenham Hale LU,Victoria,3,Yes
+Totteridge & Whetstone,Northern,4,Yes
+Tower Hill,"Circle, District",1,No
+Tufnell Park,Northern,2,Yes
+Turnham Green,"District, Piccadilly",2,Yes
+Turnpike Lane,Piccadilly,3,Yes
+Upminster,"District, London Overground",6,No
+Upminster Bridge,District,6,No
+Upney,District,4,No
+Upton Park,"District, Hammersmith & City",3,No
+Uxbridge,"Metropolitan, Piccadilly",6,No
+Victoria LU,"Circle, District, Victoria",1,Yes
+Walthamstow Central,"London Overground, Victoria",3,Yes
+Wanstead,Central,4,Yes
+Warren Street,"Northern, Victoria",1,Yes
+Warwick Avenue,Bakerloo,2,No
+Waterloo LU,"Bakerloo, Jubilee, Northern, Waterloo & City",1,Yes
+Watford,Metropolitan,7,No
+Stratford High Street,DLR,2,No
+Abbey Road,DLR,2,No
+Wembley Central,"Bakerloo, London Overground",4,No
+Wembley Park,"Metropolitan, Jubilee",4,Yes
+West Acton,Central,3,Yes
+Westbourne Park,"Circle, Hammersmith & City",2,No
+West Brompton,"District, London Overground",2,No
+West Finchley,Northern,4,Yes
+West Ham,"District, DLR, Hammersmith & City, Jubilee",2,Yes
+West Hampstead LU,Jubilee,2,Yes
+West Harrow,Metropolitan,5,No
+West Kensington,District,2,No
+Westminster,"Circle, District, Jubilee",1,Yes
+West Ruislip,Central,6,No
+Whitechapel,"District, Hammersmith & City, London Overground, TfL Rail",2,Yes
+White City,Central,2,Yes
+Willesden Green,Jubilee,2,Yes
+Willesden Junction,"Bakerloo, London Overground",2,No
+Wimbledon,District,3,No
+Wimbledon Park,District,3,No
+Woodford,Central,4,No
+Wood Green,Piccadilly,3,Yes
+Woodside Park,Northern,4,Yes
+Hammersmith (H&C),"Circle, Hammersmith & City",2,No
+Edgware Road (Bak),Bakerloo,1,No
+Shepherd's Bush Market,"Circle, Hammersmith & City",2,No
+Pimlico,Victoria,1,Yes
+Vauxhall LU,Victoria,1,Yes
+Brixton LU,Victoria,2,Yes
+Hatton Cross,Piccadilly,5,Yes
+Heathrow Terminals 123 LU,Piccadilly,6,Yes
+Heathrow Terminal 4 LU,Piccadilly,6,Yes
+Heathrow Terminal 5 LU,Piccadilly,6,Yes
+Southwark,Jubilee,1,Yes
+Bermondsey,Jubilee,2,Yes
+Canada Water,"Jubilee, London Overground",2,Yes
+North Greenwich,Jubilee,2,Yes
+Nine Elms,Northern,1,No
+Battersea Power Station,Northern,1,No
+Canary Wharf DLR,DLR,2,No
+All Saints,DLR,2,No
+Bow Church,DLR,2,No
+Canary Wharf LU,Jubilee,2,Yes
+Langdon Park,DLR,2,No
+Crossharbour,DLR,2,No
+Heron Quays,DLR,2,No
+Island Gardens,DLR,2,No
+Mudchute,DLR,2,No
+Poplar,DLR,2,No
+Pudding Mill Lane,DLR,2,No
+Shadwell DLR,DLR,2,No
+South Quay,DLR,2,No
+Limehouse DLR,DLR,2,No
+Tower Gateway,DLR,1,No
+Westferry,DLR,2,No
+West India Quay,DLR,2,No
+Devons Road,DLR,2,No
+Cutty Sark,DLR,2,No
+Blackwall,DLR,2,No
+East India,DLR,2,No
+Canning Town,"DLR, Jubilee ",2,Yes
+Royal Victoria,DLR,3,No
+Custom House,"DLR, TfL Rail",3,No
+Prince Regent,DLR,3,No
+Star Lane,DLR,2,No
+Royal Albert,DLR,3,No
+Beckton Park,DLR,3,No
+Cyprus,DLR,3,No
+Gallions Reach,DLR,3,No
+Beckton,DLR,3,No
+Deptford Bridge,DLR,2,No
+Elverson Road,DLR,2,No
+Greenwich,DLR,2,No
+Lewisham DLR,DLR,2,No
+Haggerston,London Overground,2,Yes
+Hoxton,London Overground,1,Yes
+Shoreditch High Street,London Overground,1,Yes
+Rotherhithe,London Overground,2,Yes
+Shadwell LO,London Overground,2,Yes
+Surrey Quays,London Overground,2,Yes
+Wapping,London Overground,2,Yes
+Barking Riverside,London Overground,4,No
+Bushey,London Overground,8,No
+Hatch End,London Overground,6,No
+Watford Junction,London Overground,8,No
+Acton Central,London Overground,3,No
+Gospel Oak,London Overground,2,No
+Hampstead Heath,London Overground,2,No
+Kilburn High Road,London Overground,2,No
+West Hampstead LO,London Overground,2,No
+Dalston Kingsland,London Overground,2,No
+Brondesbury,London Overground,2,No
+Brondesbury Park,London Overground,2,No
+Caledonian Road & Barnsbury,London Overground,2,No
+Camden Road,London Overground,2,No
+Canonbury,London Overground,2,Yes
+Carpenders Park,London Overground,7,No
+Dalston Junction,London Overground,2,Yes
+Euston NR,London Overground,1,No
+Finchley Road & Frognal,London Overground,2,No
+Kensal Rise,London Overground,2,No
+Kentish Town West,London Overground,2,No
+South Hampstead,London Overground,2,No
+South Acton,London Overground,3,No
+Watford High Street,London Overground,8,No
+Upper Holloway,London Overground,2,No
+Acton Main Line,TfL Rail,3,No
+Paddington NR,TfL Rail,1,No
+Maidenhead,TfL Rail,-1,No
+Reading,TfL Rail,-1,No
+Taplow,TfL Rail,-1,No
+Twyford,TfL Rail,-1,No
+Iver,TfL Rail,-1,No
+Langley,TfL Rail,-1,No
+Slough,TfL Rail,-1,No
+West Drayton,TfL Rail,6,No
+Burnham,TfL Rail,-1,No
+Headstone Lane,London Overground,5,No
+Hayes and Harlington,TfL Rail,5,No
+Southall,TfL Rail,4,No
+West Ealing,TfL Rail,3,No
+Hanwell,TfL Rail,4,No
+Abbey Wood,TfL Rail,4,No
+New Cross,London Overground,2,No
+Clapham High Street,London Overground,2,No
+New Cross Gate,London Overground,2,Yes
+Crystal Palace,London Overground,3,No
+Forest Hill,London Overground,3,No
+Wandsworth Road,London Overground,2,No
+Norwood Junction,London Overground,4,No
+Penge West,London Overground,4,No
+Anerley,London Overground,4,No
+Brockley,London Overground,2,No
+West Croydon NR,London Overground,5,No
+Honor Oak Park,London Overground,3,No
+Battersea Park,London Overground,2,No
+Denmark Hill,London Overground,2,No
+Peckham Rye,London Overground,2,No
+Queens Road Peckham,London Overground,2,No
+Sydenham,London Overground,3,No
+Clapham Junction,London Overground,2,No
+Canary Wharf EL,TfL Rail,2,No
+Woolwich,TfL Rail,4,No
+Cheshunt,London Overground,8,No
+Hackney Downs,London Overground,2,No
+Brentwood,TfL Rail,9,No
+Chadwell Heath,TfL Rail,5,No
+Forest Gate,TfL Rail,3,No
+Gidea Park,TfL Rail,6,No
+Goodmayes,TfL Rail,4,No
+Harold Wood,TfL Rail,6,No
+Ilford,TfL Rail,4,No
+Manor Park,TfL Rail,4,No
+Romford,"London Overground, TfL Rail",6,No
+Shenfield,TfL Rail,-1,No
+Seven Kings,TfL Rail,4,No
+Bush Hill Park,London Overground,5,No
+Chingford,London Overground,5,No
+Highams Park,London Overground,4,No
+Clapton,London Overground,2,No
+Stoke Newington,London Overground,2,No
+Edmonton Green,London Overground,4,No
+Southbury,London Overground,5,No
+Theobalds Grove,London Overground,7,No
+Turkey Street,London Overground,6,No
+Wood Street,London Overground,4,No
+White Hart Lane,London Overground,3,No
+Bruce Grove,London Overground,3,No
+Enfield Town,London Overground,5,No
+Bethnal Green LO,London Overground,2,No
+Cambridge Heath,London Overground,2,No
+Liverpool Street NR,TfL Rail,1,No
+London Fields,London Overground,2,No
+Rectory Road,London Overground,2,No
+Stamford Hill,London Overground,3,No
+Maryland,TfL Rail,3,No
+Silver Street,London Overground,4,No
+St James Street,London Overground,3,No
+Hackney Central,London Overground,3,No
+Hackney Wick,London Overground,2,No
+Homerton,London Overground,2,No
+Heathrow Terminals 2 & 3 EL,TfL Rail,6,No
+Heathrow Terminal 4 EL,TfL Rail,6,No
+Harringay Green Lanes,London Overground,3,No
+Leyton Midland Road,London Overground,3,No
+Leytonstone High Road,London Overground,3,No
+South Tottenham,London Overground,3,No
+Crouch Hill,London Overground,3,No
+Walthamstow Queen's Road,London Overground,3,No
+Wanstead Park,London Overground,3,No
+Woodgrange Park,London Overground,3,No
+Emerson Park,London Overground,6,No
+West Croydon (Tramlink),Tramlink,5,No
+Wimbledon (Tramlink),Tramlink,3,No
+Woodside,Tramlink,5,No
+Addiscombe,Tramlink,5,No
+Addington Village,Tramlink,6,No
+Ampere Way,Tramlink,4,No
+Arena,Tramlink,4,No
+Avenue Road,Tramlink,4,No
+Beckenham Junction (Tramlink),Tramlink,4,No
+Beckenham Road,Tramlink,4,No
+Beddington Lane,Tramlink,4,No
+Belgrave Walk,Tramlink,4,No
+Birkbeck (Tramlink),Tramlink,4,No
+Blackhorse Lane,Tramlink,5,No
+Church Street,Tramlink,5,No
+Coombe Lane,Tramlink,5,No
+Dundonald Road,Tramlink,3,No
+East Croydon (Tramlink),Tramlink,5,No
+Elmers End (Tramlink),Tramlink,4,No
+Fieldway,Tramlink,6,No
+George Street,Tramlink,5,No
+Gravel Hill,Tramlink,6,No
+Harrington Road,Tramlink,4,No
+King Henry's Drive,Tramlink,6,No
+Lebanon Road,Tramlink,5,No
+Lloyd Park,Tramlink,5,No
+Merton Park,Tramlink,3,No
+Mitcham,Tramlink,4,No
+Mitcham Junction (Tramlink),Tramlink,4,No
+Morden Road,Tramlink,4,No
+New Addington,Tramlink,6,No
+Phipps Bridge,Tramlink,4,No
+Reeves Corner,Tramlink,5,No
+Sandilands,Tramlink,5,No
+Centrale,Tramlink,5,No
+Therapia Lane,Tramlink,4,No
+Waddon Marsh,Tramlink,5,No
+Wandle Park,Tramlink,5,No
+Wellesley Road,Tramlink,5,No
+Imperial Wharf,London Overground,2,No
+Shepherd's Bush NR,London Overground,2,No
+Heathrow Terminal 5 EL,TfL Rail,6,No
